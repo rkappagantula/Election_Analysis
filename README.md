@@ -27,6 +27,7 @@ As part of the election audit of a recent local congressional election. Below in
 
 ### Election-Audit Results:
 
+![image](https://user-images.githubusercontent.com/96051648/152666649-d7abe3b5-7599-43e7-b69e-e56e27e7a9d8.png)
 
 > ***How many votes were cast in this election?***
  > - **Total_Votes Cast:** 369,711
@@ -47,3 +48,5 @@ As part of the election audit of a recent local congressional election. Below in
 > - **Diana DeGette** won the election, with a total votes of **272,892**
 > - In addition, **Diana DeGette** has the total percentage votes of `73.8%
 > - **Diana DeGette** is the Winner
+### Election-Audit Summary:
+Using this program any data set can be audited as the data is stored in dictionaries.
