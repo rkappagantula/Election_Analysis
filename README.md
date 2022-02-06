@@ -18,8 +18,7 @@ As part of the election audit of a recent local congressional election. Below in
 
 # Resources
 * Data Source: election_results.csv
-* Software: Python 3.7.6, Visual Studio 1.61.2
-
+* Software: Python 3.7.6, Visual Studio 1.64
 
 
 ## Results as recorded in my election_analysis.txt file
